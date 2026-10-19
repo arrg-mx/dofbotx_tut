@@ -1,4 +1,4 @@
-# Tutorial DOFBot
+# Tutorial Dofbot
 
 ![ROS2 Jazzy](https://img.shields.io/badge/ROS2-Jazzy-blue.svg)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-green.svg)
@@ -67,9 +67,6 @@ source install/setup.bash
 | **Nombre** | `dofbot_ctrl` |
 | **Tipo** | Paquete Python (ament_python) |
 | **Descripción** | Paquete de control del brazo DOFBot |
-| **Versión** | 0.0.0 |
-| **Mantenedor** | Felipe Rivas <rivascf@gmail.com> |
-| **Licencia** | MIT |
 
 ### Estructura del Paquete
 
