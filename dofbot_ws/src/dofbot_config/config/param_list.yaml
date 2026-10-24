@@ -1,0 +1,19 @@
+# /param_srv: solo va a cargar el archivo si el nombre del nodo es '/param_srv'
+# /**: Es un comodin para cargar el valor de los parametros en el archivo independientemente
+# del nombre del nodo
+/**:
+  ros__parameters:
+    dofbot_config:
+      gripper_joint_name: gripper_joint
+      joint_names:
+      - base_joint
+      - arm_joint1
+      - arm_joint2
+      - arm_joint3
+      - arm_joint4
+      robot_ip: 192.168.200.128
+      robot_name: VIRTUAL
+      vel_ang: 0.15
+      vel_lin: 0.25
+    vel_default: 0.01
+
